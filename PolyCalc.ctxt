@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PolyCalc
+comment0.text=\r\n\ Basic\ Polynomial\ Calculator\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=
+comment1.target=void\ mainMenu()
+comment1.text=\r\n\ method\ printing\ out\ the\ main\ menu\ of\ the\ Polynomial\ Calculator\r\n
+comment2.params=
+comment2.target=void\ interactiveMode()
+comment2.text=\r\n\ method\ constructing\ the\ main\ menu\ of\ the\ Polynomial\ Calculator\r\n
+comment3.params=
+comment3.target=void\ fileMode()
+comment3.text=\r\n\ method\ constructing\ the\ file\ mode\ of\ the\ Polynomial\ Calculator\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\ \r\n\ Construct\ the\ basic\ version\ of\ Polynomial\ Calculator\r\n\ @param\ args\ unused\r\n
+numComments=5

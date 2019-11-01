@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FSM
+comment0.text=\r\n\ Finite\ State\ Machine\ Class\ to\ read\ and\ evaluate\ polynomial\ arithmetic\ calculations\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=c
+comment1.target=Operator\ checkOperator(char)
+comment1.text=\r\n\ Method\ checking\ if\ a\ character\ is\ an\ operator\ and\ return\ the\ operator\ value\r\n\ @param\ c\ the\ given\ character\ to\ be\ checked\ \r\n\ @return\ a\ new\ operator\ object,\ either\ addition,\ substraction,\ multiplication\ and\ division;\ \r\n\ null\ if\ the\ character\ is\ not\ an\ operator\r\n
+comment2.params=doubleStrCoef\ intStrExp
+comment2.target=Polynomial\ inputPoly(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Method\ constructing\ a\ polynomial\ (a\ monomial\ to\ be\ precise)\ given\ two\ strings\ representing\ the\ coeffient\ and\ exponent\r\n\ @param\ doubleStrCoef\ a\ string\ representation\ of\ the\ number\ value\ of\ the\ coefficient\ (a\ double)\r\n\ @param\ intStrExp\ a\ string\ representation\ of\ the\ number\ value\ of\ the\ exponent\ (an\ integer)\r\n\ @return\ a\ polynomial\ (a\ monomial\ to\ be\ precise)\ resulted\r\n
+comment3.params=input
+comment3.target=java.util.List\ ReadPoly(java.lang.String)
+comment3.text=\r\n\ Method\ representing\ the\ finite\ state\ machine\ to\ read\ the\ input\ polynomial\ calculation\r\n\ @param\ input\ a\ string\ representation\ of\ a\ polynomial\ calculation\r\n\ @return\ the\ list\ of\ tokens\ of\ the\ input\ polynomial\ calculation\ with\ the\ infix\ notation\r\n
+comment4.params=tokenList
+comment4.target=java.util.List\ InfixToPostfixConverter(java.util.List)
+comment4.text=\r\n\ Method\ converting\ the\ polynomial\ calculation's\ infix\ notation\ into\ \r\n\ postfix\ notation\r\n\ @param\ tokenList\ the\ list\ of\ tokens\ of\ polynomial's\ calculation's\ infix\ notation\r\n\ @return\ a\ list\ of\ tokens\ of\ polynomial's\ calculation's\ postfix\ notation\r\n
+comment5.params=postfixtokenList
+comment5.target=Polynomial\ postfixEval(java.util.List)
+comment5.text=\r\n\ Method\ evaluating\ the\ polynomial\ calculation\ based\ on\ the\ postfix\ notation\ \r\n\ of\ the\ polynomial\ calculation\r\n\ @param\ postfixtokenList\ a\ list\ of\ tokens\ of\ the\ polynomial\ calculation\ with\ \r\n\ postfix\ notation\r\n\ @return\ the\ result\ polynomial\ \r\n
+numComments=6

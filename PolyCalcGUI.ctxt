@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PolyCalcGUI
+comment0.text=\r\n\ Graphical\ User\ Interface\ for\ Polynomial\ Calculator\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=
+comment1.target=void\ mainMenuGUI()
+comment1.text=\r\n\ Constructing\ the\ main\ menu\ graphical\ user\ interface\r\n
+comment2.params=
+comment2.target=void\ interactiveModeGUI()
+comment2.text=\r\n\ Constructing\ the\ evaluation\ button\ of\ the\ graphical\ user\ interface\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ fileModeGUI()
+comment4.text=\r\n\ Constructing\ the\ Choose\ File\ button\ of\ the\ graphical\ user\ interface\r\n
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ main\ method\ to\ run\ the\ polynomial\ calculator\ graphical\ user\ interface\r\n\ @param\ args\ unused\r\n
+numComments=7

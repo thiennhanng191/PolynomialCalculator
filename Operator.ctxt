@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Operator
+comment0.text=\r\n\ Interface\ for\ the\ operators,\ extending\ Token\ interface.\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=
+comment1.target=int\ getPriority()
+comment1.text=\r\n\ abstract\ method\ returning\ the\ number\ representing\ the\ priority\ of\ the\ operator\r\n\ return\ the\ number\ representing\ the\ priority\ of\ the\ operator\ \r\n
+comment2.params=polyA\ polyB
+comment2.target=Polynomial\ operate(Polynomial,\ Polynomial)
+comment2.text=\r\n\ abstract\ method\ to\ run\ the\ operation\ of\ the\ operators\r\n\ @param\ polyA\ one\ of\ the\ two\ polynomials\ to\ be\ operated\ on\r\n\ @param\ polyB\ one\ of\ the\ two\ polynomials\ to\ be\ operated\ on\r\n\ return\ the\ result\ polynomial\ \r\n
+numComments=3

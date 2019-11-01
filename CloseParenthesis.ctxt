@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CloseParenthesis
+comment0.text=\r\n\ Class\ representing\ a\ close\ parenthesis,\ implementing\ the\ Token\ Interface\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=
+comment1.target=CloseParenthesis()
+comment1.text=\r\n\ Constructor\ to\ create\ a\ close\ parenthesis\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Make\ a\ string\ representation\ of\ a\ close\ parenthesis\ \r\n\ that\ is\ useful\ for\ testing\ \r\n\ @return\ a\ string\ representation\ of\ a\ close\ parenthesis\ \r\n
+numComments=3

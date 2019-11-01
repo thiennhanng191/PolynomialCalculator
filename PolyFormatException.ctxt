@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PolyFormatException
+comment0.text=\r\n\ PolynomialFormatException\ class\ extending\ IllegalArgumentException\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=
+comment1.target=PolyFormatException()
+comment1.text=\r\n\ Empty\ constructor\ of\ a\ PolyFormatException\r\n
+comment2.params=msg
+comment2.target=PolyFormatException(java.lang.String)
+comment2.text=\r\n\ Constructor\ of\ a\ PolyFormatException\ with\ given\ error\ message\r\n\ @param\ msg\ the\ error\ message\r\n
+numComments=3

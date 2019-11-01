@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OpenParenthesis
+comment0.text=\r\n\ Class\ representing\ an\ open\ parenthesis,\ implementing\ the\ Token\ Interface\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=
+comment1.target=OpenParenthesis()
+comment1.text=\r\n\ Constructor\ to\ create\ an\ open\ parenthesis\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Make\ a\ string\ representation\ of\ an\ open\ parenthesis\ \r\n\ that\ is\ useful\ for\ testing\ \r\n\ @return\ a\ string\ representation\ of\ an\ open\ parenthesis\ \r\n
+numComments=3

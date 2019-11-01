@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DivOperator
+comment0.text=\r\n\ Class\ representing\ the\ Division\ Operator\ implementing\ Operator\ interface\r\n\ @author\ Nhan\ Nguyen\r\n\ @version\ CMPU-102-HW3\r\n
+comment1.params=
+comment1.target=DivOperator()
+comment1.text=\r\n\ Empty\ constructor\ for\ division\ operator\r\n
+comment2.params=
+comment2.target=int\ getPriority()
+comment2.text=\r\n\ Method\ returning\ the\ number\ representing\ the\ priority\ of\ the\ division\ operator\r\n\ @return\ 2\ for\ the\ number\ representing\ the\ priority\ of\ the\ division\ operator\r\n
+comment3.params=polyA\ polyB
+comment3.target=Polynomial\ operate(Polynomial,\ Polynomial)
+comment3.text=\r\n\ Method\ to\ execute\ the\ substraction\ operation\ on\ two\ polynomial\r\n\ @param\ polyA\ the\ dividend\ polynomial\r\n\ @param\ polyB\ the\ divisor\ polynomial\r\n\ @return\ the\ polynomial\ difference\ of\ the\ two\ input\ polynomials\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
